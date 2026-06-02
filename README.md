@@ -116,3 +116,7 @@ MIT — see [LICENSE](LICENSE).
 ## Support
 
 [Intellar store](https://intellar.square.site/)
+
+Example:
+![screen](https://github.com/intellar/ImpulsePlay/blob/78df569e8fd265b34dfc83c6fa7ff6fe569a02fc/impulseplay.png)
+
