@@ -1,0 +1,13 @@
+.pio
+**/.browse.c_cpp.db*
+**/c_cpp_properties.json
+**/launch.json
+**/ipch
+
+# CAD / CAM / impression 3D (fichiers locaux, non versionnés)
+*.gcode
+*.gco
+*.nc
+*.3mf
+*.FCBak
+*.fcbak

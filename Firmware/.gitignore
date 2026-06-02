@@ -1,0 +1,17 @@
+# Fichiers et dossiers générés par PlatformIO et VSCode
+.pio/
+.vscode/
+
+# Fichiers de configuration locaux
+platformio.ini.local
+
+# Fichiers de système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de build C/C++
+*.o
+*.a
+*.elf
+*.bin
+*.map
