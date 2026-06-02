@@ -1,3 +1,7 @@
+Example:
+![screen](https://github.com/intellar/ImpulsePlay/blob/78df569e8fd265b34dfc83c6fa7ff6fe569a02fc/impulseplay.png)
+
+
 # Intellar ImpulsePlay
 
 Portable ESP32-S3 companion with tilt-driven **impulse physics**, a match-3 ball game, and IMU-animated eyes.
@@ -117,6 +121,5 @@ MIT — see [LICENSE](LICENSE).
 
 [Intellar store](https://intellar.square.site/)
 
-Example:
-![screen](https://github.com/intellar/ImpulsePlay/blob/78df569e8fd265b34dfc83c6fa7ff6fe569a02fc/impulseplay.png)
+
 
