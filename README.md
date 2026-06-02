@@ -2,6 +2,9 @@
 
 Portable ESP32-S3 companion with tilt-driven **impulse physics**, a match-3 ball game, and IMU-animated eyes.
 
+https://youtube.com/shorts/vLsGOB6HffI
+
+
 **Repository:** https://github.com/intellar/ImpulsePlay
 
 ```bash
